@@ -1,3 +1,3 @@
 # seminarioGit
 Primera practica de Git
-No Soy carmen
+No Soy Ainhoa
